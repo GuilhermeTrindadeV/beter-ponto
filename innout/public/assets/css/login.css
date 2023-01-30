@@ -1,0 +1,24 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    background-color: #DDD;
+}
+
+.form-login {
+    flex-basis: 450px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+}
+
+.login-card  {
+    border-radius: 15px;
+}
+
+.login-card .card-header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.8rem;
+}
